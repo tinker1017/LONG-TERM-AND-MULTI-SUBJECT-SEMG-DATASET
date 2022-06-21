@@ -10,7 +10,7 @@ The file **'gesture.xlsx'** has images, descriptions, and labels of all gestures
 Every gesture was repeated ten times. For all gestures, subjects held for 5 seconds, following a rest of 2 seconds. After recording ten repetitions of one gesture, rest for 2 minutes. All three sets of gestures were collected within one session in one day. Each subject was required to participate in ten sessions. The time interval between two sessions must be greater than 24 hours.
 
 **File format**   
-All data is stored in '.mat' format. Inside every '.mat' file, EMG signals, subject No., session, gesture type, gesture label and repetition were recorded.
+All data is stored in '.mat' format. Inside every '.mat' file, EMG signals, subject No., session, gesture type, gesture label and repetition were recorded.   
 Keywords explanation：
 * emg: The sEMG signals of one gesture, repeated ten times.
 * subject: The number of suject.
